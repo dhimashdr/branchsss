@@ -1,4 +1,4 @@
 # branchsss
 branch test
 --
-ss
+link gugel : [gugel](https://www.google.com).
